@@ -1,6 +1,7 @@
 # IMEI Generator Tool
 
 设备信息模拟与配置执行系统
+![](doc/1.png)
 
 ## 项目介绍
 
