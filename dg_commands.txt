@@ -1,0 +1,19 @@
+# 设备 1 的DG命令
+dg config -a prop.ro.product.manufacturer=samsung
+dg config -a prop.ro.product.brand=samsung
+dg config -a prop.ro.product.model=SM-G973F
+dg config -a prop.ro.product.device=SM-G973F
+dg config -a prop.ro.serialno=FD5F1E606571759A
+dg config -a sim.imei=070373773766460
+dg config -a sim.imsi=310004700654515
+dg config -a sim.country=US
+dg config -a sim.msisdn=+12052570614
+dg config -a net.if.mac=9c:ec:55:af:9a:ed
+dg config -a prop.android.id=2b18964f823edcd1
+dg config -a sim.netType=cdma
+dg config -a net.wifi.ssid=WiFi_7763
+dg config -a net.wifi.ipaddress=129.153.198.180
+dg geo fix -32.73428 74.347477
+dg sensor set acceleration 5.53 7.35 2.32
+dg sensor set gyroscope -150.72 -203.92 284.06
+

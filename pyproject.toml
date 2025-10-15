@@ -1,0 +1,14 @@
+[project]
+name = "imei-generator-tool"
+version = "0.1.0"
+description = "设备信息模拟与配置执行系统"
+requires-python = ">=3.12"
+dependencies = [
+    "Faker>=37.11.0",
+    "paramiko>=3.4.0",
+    "streamlit>=1.39.0",
+    "pandas>=2.2.0",
+]
+
+[project.scripts]
+device-simulator = "src.main:main"

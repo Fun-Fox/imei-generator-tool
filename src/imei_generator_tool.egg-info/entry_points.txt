@@ -1,0 +1,2 @@
+[console_scripts]
+device-simulator = src.main:main

@@ -1,0 +1,282 @@
+[
+  {
+    "model": "Samsung",
+    "imei": "714039608525254",
+    "imsi": "460025194596754",
+    "mac_address": "3d:bc:f4:72:dc:f5",
+    "android_id": "cfb9b4144aed7291",
+    "app_version": "3.8.24",
+    "system_version": "Android 12",
+    "ssid": "WiFi_9423",
+    "ip_address": "129.153.198.180",
+    "network_type": "WiFi",
+    "accelerometer_data": {
+      "x": 8.71,
+      "y": 1.91,
+      "z": 5.99
+    },
+    "gyroscope_data": {
+      "x": 400.05,
+      "y": -250.65,
+      "z": 279.43
+    },
+    "latitude": 88.565213,
+    "longitude": -143.831581,
+    "country": "China",
+    "region": "China",
+    "carrier": "China Mobile",
+    "phone_number": "+8615193573350"
+  },
+  {
+    "model": "Samsung",
+    "imei": "714039606499411",
+    "imsi": "460073599831097",
+    "mac_address": "a3:f7:d2:65:d8:12",
+    "android_id": "a0fd110095f1e735",
+    "app_version": "3.6.14",
+    "system_version": "Android 10",
+    "ssid": "WiFi_8243",
+    "ip_address": "183.214.39.114",
+    "network_type": "4G",
+    "accelerometer_data": {
+      "x": 4.77,
+      "y": 3.85,
+      "z": -0.63
+    },
+    "gyroscope_data": {
+      "x": 12.91,
+      "y": -499.5,
+      "z": -305.09
+    },
+    "latitude": -68.466737,
+    "longitude": 135.116551,
+    "country": "China",
+    "region": "China",
+    "carrier": "China Mobile",
+    "phone_number": "+8614752756161"
+  },
+  {
+    "model": "Samsung",
+    "imei": "714039609678912",
+    "imsi": "460008531280863",
+    "mac_address": "e6:0d:fe:9d:da:ae",
+    "android_id": "2defec82d0d1a8a3",
+    "app_version": "2.10.23",
+    "system_version": "Android 11",
+    "ssid": "WiFi_9947",
+    "ip_address": "113.163.209.250",
+    "network_type": "WiFi",
+    "accelerometer_data": {
+      "x": 9.16,
+      "y": -8.14,
+      "z": -3.81
+    },
+    "gyroscope_data": {
+      "x": -191.72,
+      "y": -164.9,
+      "z": 230.2
+    },
+    "latitude": -3.825637,
+    "longitude": 98.721107,
+    "country": "China",
+    "region": "China",
+    "carrier": "China Mobile",
+    "phone_number": "+8618400219519"
+  },
+  {
+    "model": "Samsung",
+    "imei": "714039604945902",
+    "imsi": "460009275880555",
+    "mac_address": "75:ec:a6:71:57:ba",
+    "android_id": "879aa4659f1a2638",
+    "app_version": "3.6.46",
+    "system_version": "Android 14",
+    "ssid": "WiFi_3045",
+    "ip_address": "133.144.103.224",
+    "network_type": "4G",
+    "accelerometer_data": {
+      "x": 8.09,
+      "y": -9.98,
+      "z": -8.51
+    },
+    "gyroscope_data": {
+      "x": -421.81,
+      "y": -408.59,
+      "z": 372.25
+    },
+    "latitude": -26.692518,
+    "longitude": -119.195653,
+    "country": "China",
+    "region": "China",
+    "carrier": "China Mobile",
+    "phone_number": "+8613463452999"
+  },
+  {
+    "model": "Samsung",
+    "imei": "714039605098016",
+    "imsi": "460007036896310",
+    "mac_address": "93:6f:f3:1f:d7:e5",
+    "android_id": "3f2921e1a1737316",
+    "app_version": "3.4.3",
+    "system_version": "Android 14",
+    "ssid": "WiFi_4370",
+    "ip_address": "130.8.186.60",
+    "network_type": "WiFi",
+    "accelerometer_data": {
+      "x": -9.21,
+      "y": 6.7,
+      "z": 2.06
+    },
+    "gyroscope_data": {
+      "x": -314.38,
+      "y": -369.07,
+      "z": -9.25
+    },
+    "latitude": -11.21647,
+    "longitude": -62.000397,
+    "country": "China",
+    "region": "China",
+    "carrier": "China Mobile",
+    "phone_number": "+8615198663805"
+  },
+  {
+    "model": "Samsung",
+    "imei": "714039607819807",
+    "imsi": "460021099457647",
+    "mac_address": "a7:b3:4c:b7:19:37",
+    "android_id": "292d5c90a4d52154",
+    "app_version": "2.18.14",
+    "system_version": "Android 10",
+    "ssid": "WiFi_6344",
+    "ip_address": "77.254.42.34",
+    "network_type": "5G",
+    "accelerometer_data": {
+      "x": 7.78,
+      "y": -2.04,
+      "z": 2.25
+    },
+    "gyroscope_data": {
+      "x": 145.7,
+      "y": -422.19,
+      "z": -475.56
+    },
+    "latitude": -41.704387,
+    "longitude": 87.392022,
+    "country": "China",
+    "region": "China",
+    "carrier": "China Mobile",
+    "phone_number": "+8615028957664"
+  },
+  {
+    "model": "Samsung",
+    "imei": "714039608199126",
+    "imsi": "460000266877760",
+    "mac_address": "fb:e5:37:ff:a5:3b",
+    "android_id": "e4d6c2d8c2a822d9",
+    "app_version": "3.2.0",
+    "system_version": "Android 10",
+    "ssid": "WiFi_6934",
+    "ip_address": "112.108.176.251",
+    "network_type": "5G",
+    "accelerometer_data": {
+      "x": -9.28,
+      "y": 1.0,
+      "z": 9.97
+    },
+    "gyroscope_data": {
+      "x": 198.14,
+      "y": -342.07,
+      "z": -421.79
+    },
+    "latitude": -4.555814,
+    "longitude": 4.984479,
+    "country": "China",
+    "region": "China",
+    "carrier": "China Mobile",
+    "phone_number": "+8618491608194"
+  },
+  {
+    "model": "Samsung",
+    "imei": "714039603460986",
+    "imsi": "460029423033179",
+    "mac_address": "07:5a:ce:77:b2:73",
+    "android_id": "9abaca425c57a3d8",
+    "app_version": "2.9.9",
+    "system_version": "Android 11",
+    "ssid": "WiFi_4957",
+    "ip_address": "3.173.150.154",
+    "network_type": "WiFi",
+    "accelerometer_data": {
+      "x": -8.72,
+      "y": 6.03,
+      "z": -3.7
+    },
+    "gyroscope_data": {
+      "x": 374.25,
+      "y": -132.39,
+      "z": 223.5
+    },
+    "latitude": 5.262949,
+    "longitude": -154.838179,
+    "country": "China",
+    "region": "China",
+    "carrier": "China Mobile",
+    "phone_number": "+8615746046008"
+  },
+  {
+    "model": "Samsung",
+    "imei": "714039601379790",
+    "imsi": "460078719323722",
+    "mac_address": "44:15:e8:ef:c9:66",
+    "android_id": "c0e4b3a8953e7032",
+    "app_version": "3.13.42",
+    "system_version": "Android 11",
+    "ssid": "WiFi_3549",
+    "ip_address": "116.115.120.25",
+    "network_type": "WiFi",
+    "accelerometer_data": {
+      "x": -8.4,
+      "y": -0.53,
+      "z": 8.02
+    },
+    "gyroscope_data": {
+      "x": 15.94,
+      "y": 24.95,
+      "z": 77.09
+    },
+    "latitude": -34.298602,
+    "longitude": 129.380001,
+    "country": "China",
+    "region": "China",
+    "carrier": "China Mobile",
+    "phone_number": "+8613756076537"
+  },
+  {
+    "model": "Samsung",
+    "imei": "714039608794884",
+    "imsi": "460023382100074",
+    "mac_address": "82:07:0a:f2:d8:3d",
+    "android_id": "e2ac25872f2767dc",
+    "app_version": "4.8.50",
+    "system_version": "Android 13",
+    "ssid": "WiFi_3588",
+    "ip_address": "160.26.158.113",
+    "network_type": "4G",
+    "accelerometer_data": {
+      "x": 3.23,
+      "y": -9.34,
+      "z": -9.56
+    },
+    "gyroscope_data": {
+      "x": 132.82,
+      "y": -15.69,
+      "z": -253.17
+    },
+    "latitude": -69.130328,
+    "longitude": -150.115816,
+    "country": "China",
+    "region": "China",
+    "carrier": "China Mobile",
+    "phone_number": "+8615918029304"
+  }
+]
