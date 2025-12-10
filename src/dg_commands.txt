@@ -3,188 +3,188 @@ dg config -a prop.ro.product.manufacturer=samsung
 dg config -a prop.ro.product.brand=samsung
 dg config -a prop.ro.product.model=Samsung
 dg config -a prop.ro.product.device=Samsung
-dg config -a prop.ro.serialno=D5599575D61D9D2D
-dg config -a sim.imei=714039608525254
-dg config -a sim.imsi=460025194596754
+dg config -a prop.ro.serialno=3D636B6B272FCD67
+dg config -a sim.imei=350505560464749
+dg config -a sim.imsi=460027382356629
 dg config -a sim.country=CN
-dg config -a sim.msisdn=+8615193573350
-dg config -a net.if.mac=3d:bc:f4:72:dc:f5
-dg config -a prop.android.id=cfb9b4144aed7291
-dg config -a sim.netType=wifi
-dg config -a net.wifi.ssid=WiFi_9423
+dg config -a sim.msisdn=+8613404033712
+dg config -a net.if.mac=90:ec:23:12:c1:81
+dg config -a prop.android.id=f361c409f3ec6b92
+dg config -a sim.netType=lte
+dg config -a net.wifi.ssid=WiFi_7029
 dg config -a net.wifi.ipaddress=129.153.198.180
-dg geo fix -143.831581 88.565213
-dg sensor set acceleration 8.71 1.91 5.99
-dg sensor set gyroscope 400.05 -250.65 279.43
+dg geo fix 153.198733 -16.593634
+dg sensor set acceleration -7.81 5.74 1.5
+dg sensor set gyroscope 339.47 -259.76 155.31
 
 # 设备 2 的DG命令
 dg config -a prop.ro.product.manufacturer=samsung
 dg config -a prop.ro.product.brand=samsung
 dg config -a prop.ro.product.model=Samsung
 dg config -a prop.ro.product.device=Samsung
-dg config -a prop.ro.serialno=29801286EE30C1C5
-dg config -a sim.imei=714039606499411
-dg config -a sim.imsi=460073599831097
+dg config -a prop.ro.serialno=D25E75E3D9476F71
+dg config -a sim.imei=350505566023713
+dg config -a sim.imsi=460006633673468
 dg config -a sim.country=CN
-dg config -a sim.msisdn=+8614752756161
-dg config -a net.if.mac=a3:f7:d2:65:d8:12
-dg config -a prop.android.id=a0fd110095f1e735
-dg config -a sim.netType=lte
-dg config -a net.wifi.ssid=WiFi_8243
+dg config -a sim.msisdn=+8614461504860
+dg config -a net.if.mac=2c:8a:76:fa:77:65
+dg config -a prop.android.id=2328a0dce053b5f7
+dg config -a sim.netType=gsm
+dg config -a net.wifi.ssid=WiFi_3936
 dg config -a net.wifi.ipaddress=183.214.39.114
-dg geo fix 135.116551 -68.466737
-dg sensor set acceleration 4.77 3.85 -0.63
-dg sensor set gyroscope 12.91 -499.5 -305.09
+dg geo fix 51.047912 -80.014193
+dg sensor set acceleration 4.48 -3.96 1.13
+dg sensor set gyroscope -238.78 220.78 -273.57
 
 # 设备 3 的DG命令
 dg config -a prop.ro.product.manufacturer=samsung
 dg config -a prop.ro.product.brand=samsung
 dg config -a prop.ro.product.model=Samsung
 dg config -a prop.ro.product.device=Samsung
-dg config -a prop.ro.serialno=368CD8EB082DA08E
-dg config -a sim.imei=714039609678912
-dg config -a sim.imsi=460008531280863
+dg config -a prop.ro.serialno=CFAD6FB9F9ADFB65
+dg config -a sim.imei=350505562464481
+dg config -a sim.imsi=460008179198546
 dg config -a sim.country=CN
-dg config -a sim.msisdn=+8618400219519
-dg config -a net.if.mac=e6:0d:fe:9d:da:ae
-dg config -a prop.android.id=2defec82d0d1a8a3
-dg config -a sim.netType=wifi
-dg config -a net.wifi.ssid=WiFi_9947
+dg config -a sim.msisdn=+8617259449737
+dg config -a net.if.mac=08:55:19:23:f1:27
+dg config -a prop.android.id=6da03e1054b8c4d7
+dg config -a sim.netType=gsm
+dg config -a net.wifi.ssid=WiFi_4591
 dg config -a net.wifi.ipaddress=113.163.209.250
-dg geo fix 98.721107 -3.825637
-dg sensor set acceleration 9.16 -8.14 -3.81
-dg sensor set gyroscope -191.72 -164.9 230.2
+dg geo fix 90.615993 -7.954796
+dg sensor set acceleration -1.85 -5.91 5.3
+dg sensor set gyroscope -229.71 -25.51 -363.35
 
 # 设备 4 的DG命令
 dg config -a prop.ro.product.manufacturer=samsung
 dg config -a prop.ro.product.brand=samsung
 dg config -a prop.ro.product.model=Samsung
 dg config -a prop.ro.product.device=Samsung
-dg config -a prop.ro.serialno=948944E36611A99C
-dg config -a sim.imei=714039604945902
-dg config -a sim.imsi=460009275880555
+dg config -a prop.ro.serialno=E70F530512EBB33D
+dg config -a sim.imei=350505561714365
+dg config -a sim.imsi=460026085183133
 dg config -a sim.country=CN
-dg config -a sim.msisdn=+8613463452999
-dg config -a net.if.mac=75:ec:a6:71:57:ba
-dg config -a prop.android.id=879aa4659f1a2638
-dg config -a sim.netType=lte
-dg config -a net.wifi.ssid=WiFi_3045
+dg config -a sim.msisdn=+8613705616979
+dg config -a net.if.mac=2e:7d:2f:b4:f3:1d
+dg config -a prop.android.id=41bf17dc3b1486c3
+dg config -a sim.netType=cdma
+dg config -a net.wifi.ssid=WiFi_7014
 dg config -a net.wifi.ipaddress=133.144.103.224
-dg geo fix -119.195653 -26.692518
-dg sensor set acceleration 8.09 -9.98 -8.51
-dg sensor set gyroscope -421.81 -408.59 372.25
+dg geo fix 48.668172 -42.827712
+dg sensor set acceleration -5.54 -1.22 7.42
+dg sensor set gyroscope 244.52 371.12 87.6
 
 # 设备 5 的DG命令
 dg config -a prop.ro.product.manufacturer=samsung
 dg config -a prop.ro.product.brand=samsung
 dg config -a prop.ro.product.model=Samsung
 dg config -a prop.ro.product.device=Samsung
-dg config -a prop.ro.serialno=2EA0CC1F912F9C3E
-dg config -a sim.imei=714039605098016
-dg config -a sim.imsi=460007036896310
+dg config -a prop.ro.serialno=E630E1529043FC91
+dg config -a sim.imei=350505568796654
+dg config -a sim.imsi=460029836192640
 dg config -a sim.country=CN
-dg config -a sim.msisdn=+8615198663805
-dg config -a net.if.mac=93:6f:f3:1f:d7:e5
-dg config -a prop.android.id=3f2921e1a1737316
-dg config -a sim.netType=wifi
-dg config -a net.wifi.ssid=WiFi_4370
+dg config -a sim.msisdn=+8614798073859
+dg config -a net.if.mac=93:95:46:e4:43:fb
+dg config -a prop.android.id=f020f69dbc878b86
+dg config -a sim.netType=cdma
+dg config -a net.wifi.ssid=WiFi_6154
 dg config -a net.wifi.ipaddress=130.8.186.60
-dg geo fix -62.000397 -11.21647
-dg sensor set acceleration -9.21 6.7 2.06
-dg sensor set gyroscope -314.38 -369.07 -9.25
+dg geo fix -4.946718 -64.061228
+dg sensor set acceleration 8.01 3.23 7.26
+dg sensor set gyroscope -213.34 -453.09 -312.37
 
 # 设备 6 的DG命令
 dg config -a prop.ro.product.manufacturer=samsung
 dg config -a prop.ro.product.brand=samsung
 dg config -a prop.ro.product.model=Samsung
 dg config -a prop.ro.product.device=Samsung
-dg config -a prop.ro.serialno=557E8D6D6BD7739E
-dg config -a sim.imei=714039607819807
-dg config -a sim.imsi=460021099457647
+dg config -a prop.ro.serialno=04B03D5B27AE7B9C
+dg config -a sim.imei=350505562021620
+dg config -a sim.imsi=460003568637023
 dg config -a sim.country=CN
-dg config -a sim.msisdn=+8615028957664
-dg config -a net.if.mac=a7:b3:4c:b7:19:37
-dg config -a prop.android.id=292d5c90a4d52154
-dg config -a sim.netType=nr
-dg config -a net.wifi.ssid=WiFi_6344
+dg config -a sim.msisdn=+8615731335778
+dg config -a net.if.mac=73:5a:ec:a1:ba:a6
+dg config -a prop.android.id=16c710b20e382c56
+dg config -a sim.netType=wifi
+dg config -a net.wifi.ssid=WiFi_5572
 dg config -a net.wifi.ipaddress=77.254.42.34
-dg geo fix 87.392022 -41.704387
-dg sensor set acceleration 7.78 -2.04 2.25
-dg sensor set gyroscope 145.7 -422.19 -475.56
+dg geo fix -142.858647 -29.99143
+dg sensor set acceleration 6.51 5.6 -1.92
+dg sensor set gyroscope 14.72 -412.62 277.78
 
 # 设备 7 的DG命令
 dg config -a prop.ro.product.manufacturer=samsung
 dg config -a prop.ro.product.brand=samsung
 dg config -a prop.ro.product.model=Samsung
 dg config -a prop.ro.product.device=Samsung
-dg config -a prop.ro.serialno=FEB859194CFBF4F4
-dg config -a sim.imei=714039608199126
-dg config -a sim.imsi=460000266877760
+dg config -a prop.ro.serialno=3C346AF2F42348E0
+dg config -a sim.imei=350505562312177
+dg config -a sim.imsi=460071758355815
 dg config -a sim.country=CN
-dg config -a sim.msisdn=+8618491608194
-dg config -a net.if.mac=fb:e5:37:ff:a5:3b
-dg config -a prop.android.id=e4d6c2d8c2a822d9
-dg config -a sim.netType=nr
-dg config -a net.wifi.ssid=WiFi_6934
+dg config -a sim.msisdn=+8613915831418
+dg config -a net.if.mac=3e:27:1d:69:4f:ec
+dg config -a prop.android.id=0dd46f4eeb2230e7
+dg config -a sim.netType=cdma
+dg config -a net.wifi.ssid=WiFi_2430
 dg config -a net.wifi.ipaddress=112.108.176.251
-dg geo fix 4.984479 -4.555814
-dg sensor set acceleration -9.28 1.0 9.97
-dg sensor set gyroscope 198.14 -342.07 -421.79
+dg geo fix -90.011 18.881315
+dg sensor set acceleration -2.01 6.46 1.5
+dg sensor set gyroscope -495.87 398.56 79.47
 
 # 设备 8 的DG命令
 dg config -a prop.ro.product.manufacturer=samsung
 dg config -a prop.ro.product.brand=samsung
 dg config -a prop.ro.product.model=Samsung
 dg config -a prop.ro.product.device=Samsung
-dg config -a prop.ro.serialno=79E46A6949324D8B
-dg config -a sim.imei=714039603460986
-dg config -a sim.imsi=460029423033179
+dg config -a prop.ro.serialno=8FB3C864A1905DEB
+dg config -a sim.imei=350505566013920
+dg config -a sim.imsi=460070695816040
 dg config -a sim.country=CN
-dg config -a sim.msisdn=+8615746046008
-dg config -a net.if.mac=07:5a:ce:77:b2:73
-dg config -a prop.android.id=9abaca425c57a3d8
-dg config -a sim.netType=wifi
-dg config -a net.wifi.ssid=WiFi_4957
+dg config -a sim.msisdn=+8615770006948
+dg config -a net.if.mac=f2:0f:98:b0:28:f4
+dg config -a prop.android.id=8eb28f14ee56ec84
+dg config -a sim.netType=gsm
+dg config -a net.wifi.ssid=WiFi_6132
 dg config -a net.wifi.ipaddress=3.173.150.154
-dg geo fix -154.838179 5.262949
-dg sensor set acceleration -8.72 6.03 -3.7
-dg sensor set gyroscope 374.25 -132.39 223.5
+dg geo fix 95.145374 -17.019489
+dg sensor set acceleration -6.27 -1.65 -7.63
+dg sensor set gyroscope 436.52 117.62 304.0
 
 # 设备 9 的DG命令
 dg config -a prop.ro.product.manufacturer=samsung
 dg config -a prop.ro.product.brand=samsung
 dg config -a prop.ro.product.model=Samsung
 dg config -a prop.ro.product.device=Samsung
-dg config -a prop.ro.serialno=6D29BEC209FE96D8
-dg config -a sim.imei=714039601379790
-dg config -a sim.imsi=460078719323722
+dg config -a prop.ro.serialno=BE639070F8CBF009
+dg config -a sim.imei=350505560568572
+dg config -a sim.imsi=460078308213248
 dg config -a sim.country=CN
-dg config -a sim.msisdn=+8613756076537
-dg config -a net.if.mac=44:15:e8:ef:c9:66
-dg config -a prop.android.id=c0e4b3a8953e7032
+dg config -a sim.msisdn=+8613841058529
+dg config -a net.if.mac=af:15:af:ea:10:de
+dg config -a prop.android.id=41dcb281ddbe427b
 dg config -a sim.netType=wifi
-dg config -a net.wifi.ssid=WiFi_3549
+dg config -a net.wifi.ssid=WiFi_2261
 dg config -a net.wifi.ipaddress=116.115.120.25
-dg geo fix 129.380001 -34.298602
-dg sensor set acceleration -8.4 -0.53 8.02
-dg sensor set gyroscope 15.94 24.95 77.09
+dg geo fix -150.198927 89.099694
+dg sensor set acceleration -3.48 2.39 -1.17
+dg sensor set gyroscope 167.76 119.47 -497.73
 
 # 设备 10 的DG命令
 dg config -a prop.ro.product.manufacturer=samsung
 dg config -a prop.ro.product.brand=samsung
 dg config -a prop.ro.product.model=Samsung
 dg config -a prop.ro.product.device=Samsung
-dg config -a prop.ro.serialno=EC1314386EFD88B7
-dg config -a sim.imei=714039608794884
-dg config -a sim.imsi=460023382100074
+dg config -a prop.ro.serialno=3904A6EDBBEF2867
+dg config -a sim.imei=350505565444167
+dg config -a sim.imsi=460022777594670
 dg config -a sim.country=CN
-dg config -a sim.msisdn=+8615918029304
-dg config -a net.if.mac=82:07:0a:f2:d8:3d
-dg config -a prop.android.id=e2ac25872f2767dc
-dg config -a sim.netType=lte
-dg config -a net.wifi.ssid=WiFi_3588
+dg config -a sim.msisdn=+8615974931918
+dg config -a net.if.mac=79:f7:cd:c7:c4:42
+dg config -a prop.android.id=eb5df3eddfaea2e8
+dg config -a sim.netType=gsm
+dg config -a net.wifi.ssid=WiFi_2062
 dg config -a net.wifi.ipaddress=160.26.158.113
-dg geo fix -150.115816 -69.130328
-dg sensor set acceleration 3.23 -9.34 -9.56
-dg sensor set gyroscope 132.82 -15.69 -253.17
+dg geo fix 125.473232 -13.123031
+dg sensor set acceleration 8.74 8.19 -9.45
+dg sensor set gyroscope -115.7 -69.96 445.19
 

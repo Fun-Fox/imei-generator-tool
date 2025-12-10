@@ -40,12 +40,6 @@ python src/main.py -n 5 --ssh-host 192.168.1.100 --ssh-port 22 --ssh-username ro
 ### 图形界面方式
 
 ```bash
-streamlit run src/streamlit_app.py
-```
-
-或者
-
-```bash
 python -m streamlit run src/streamlit_app.py
 ```
 

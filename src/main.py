@@ -3,9 +3,9 @@
 import json
 import argparse
 from typing import List
-from src.generator.device_info_generator import DeviceInfoGenerator, DeviceInfo
-from src.executor.dg_command_generator import DGCommandGenerator
-from src.executor.ssh_executor import SSHExecutor
+from .generator.device_info_generator import DeviceInfoGenerator, DeviceInfo
+from .executor.dg_command_generator import DGCommandGenerator
+from .executor.ssh_executor import SSHExecutor
 
 
 def generate_device_info_batch(count: int, model: str = None, region: str = None, carrier: str = None) -> List[DeviceInfo]:
