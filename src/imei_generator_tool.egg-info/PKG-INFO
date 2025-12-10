@@ -1,9 +1,0 @@
-Metadata-Version: 2.4
-Name: imei-generator-tool
-Version: 0.1.0
-Summary: 设备信息模拟与配置执行系统
-Requires-Python: >=3.12
-Requires-Dist: Faker>=37.11.0
-Requires-Dist: paramiko>=3.4.0
-Requires-Dist: streamlit>=1.39.0
-Requires-Dist: pandas>=2.2.0

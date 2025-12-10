@@ -1,4 +1,0 @@
-Faker>=37.11.0
-paramiko>=3.4.0
-streamlit>=1.39.0
-pandas>=2.2.0
