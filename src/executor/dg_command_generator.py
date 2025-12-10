@@ -1,7 +1,7 @@
 """DG命令生成器"""
 
 from typing import List
-from src.generator.device_info_generator import DeviceInfo
+from src.core.models import DeviceInfo
 from src.config.carrier_info import CARRIER_INFO, get_mcc_by_region, get_mnc_by_carrier
 import random
 

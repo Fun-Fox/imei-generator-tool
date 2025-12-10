@@ -6,57 +6,10 @@ from faker import Faker
 from typing import Dict, List, Optional
 from src.config.device_models import DEVICE_MODELS, get_all_models, get_models_by_brand, get_tac_by_brand_and_model, get_tac_by_full_model
 from src.config.carrier_info import CARRIER_INFO, get_mcc_by_region, get_mnc_by_carrier, get_carriers_by_region, get_phone_prefix_by_region
+from src.core.models import DeviceInfo
 
 
-class DeviceInfo:
-    """设备信息数据结构"""
-    
-    def __init__(self):
-        self.model: str = ""
-        self.imei: str = ""
-        self.imsi: str = ""
-        self.mac_address: str = ""
-        self.android_id: str = ""
-        self.app_version: str = ""
-        self.system_version: str = ""
-        self.ssid: str = ""
-        self.ip_address: str = ""
-        self.network_type: str = ""
-        self.accelerometer_data: Dict[str, float] = {}
-        self.gyroscope_data: Dict[str, float] = {}
-        self.latitude: float = 0.0
-        self.longitude: float = 0.0
-        self.country: str = ""
-        self.region: str = ""
-        self.carrier: str = ""
-        self.phone_number: str = ""
-    
-    def to_dict(self):
-        """将设备信息转换为字典"""
-        return {
-            "model": self.model,
-            "imei": self.imei,
-            "imsi": self.imsi,
-            "mac_address": self.mac_address,
-            "android_id": self.android_id,
-            "app_version": self.app_version,
-            "system_version": self.system_version,
-            "ssid": self.ssid,
-            "ip_address": self.ip_address,
-            "network_type": self.network_type,
-            "accelerometer_data": self.accelerometer_data,
-            "gyroscope_data": self.gyroscope_data,
-            "latitude": self.latitude,
-            "longitude": self.longitude,
-            "country": self.country,
-            "region": self.region,
-            "carrier": self.carrier,
-            "phone_number": self.phone_number
-        }
-    
-    def to_json(self):
-        """将设备信息转换为JSON字符串"""
-        return json.dumps(self.to_dict(), indent=2, ensure_ascii=False)
+# 已移除DeviceInfo类定义，使用core.models中的定义
 
 
 class DeviceInfoGenerator:

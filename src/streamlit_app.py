@@ -7,6 +7,7 @@ import random
 
 from src.generator.device_info_generator import DeviceInfoGenerator
 from src.executor.dg_command_generator import DGCommandGenerator
+from src.core.models import DeviceInfo
 from src.config.device_models_config import display_device_models_config
 from src.config.carrier_info_config import display_carrier_info_config
 from src.config.device_models import get_models_by_brand, get_all_brands

@@ -3,8 +3,9 @@
 import json
 import argparse
 from typing import List
-from .generator.device_info_generator import DeviceInfoGenerator, DeviceInfo
+from .generator.device_info_generator import DeviceInfoGenerator
 from .executor.dg_command_generator import DGCommandGenerator
+from .core.models import DeviceInfo
 from .executor.ssh_executor import SSHExecutor
 
 
